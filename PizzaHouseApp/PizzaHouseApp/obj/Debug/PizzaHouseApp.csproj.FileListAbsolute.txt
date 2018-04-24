@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\C#Projects\PizzaHouseApp\PizzaHouseApp\bin\Debug\PizzaHouseApp.exe.config
+C:\Users\User\Desktop\C#Projects\PizzaHouseApp\PizzaHouseApp\bin\Debug\PizzaHouseApp.exe
+C:\Users\User\Desktop\C#Projects\PizzaHouseApp\PizzaHouseApp\bin\Debug\PizzaHouseApp.pdb
+C:\Users\User\Desktop\C#Projects\PizzaHouseApp\PizzaHouseApp\obj\Debug\PizzaHouseApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#Projects\PizzaHouseApp\PizzaHouseApp\obj\Debug\PizzaHouseApp.Form1.resources
+C:\Users\User\Desktop\C#Projects\PizzaHouseApp\PizzaHouseApp\obj\Debug\PizzaHouseApp.Properties.Resources.resources
+C:\Users\User\Desktop\C#Projects\PizzaHouseApp\PizzaHouseApp\obj\Debug\PizzaHouseApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#Projects\PizzaHouseApp\PizzaHouseApp\obj\Debug\PizzaHouseApp.exe
+C:\Users\User\Desktop\C#Projects\PizzaHouseApp\PizzaHouseApp\obj\Debug\PizzaHouseApp.pdb
